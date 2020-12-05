@@ -1,2 +1,3 @@
 name: Markham Girls Soccer Team Site
 markdown: kramdown
+permalink: /markhamsoccer/:year/:month/:day/:title
