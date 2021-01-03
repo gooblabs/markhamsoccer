@@ -1,3 +1,4 @@
 name: Markham Girls Soccer Team Site
 markdown: kramdown
-permalink: /markhamsoccer/:year/:month/:day/:title
+permalink: /markhamsoccer/:year/:month/:day/:title 
+remote_theme: pmarsceill/just-the-docs
